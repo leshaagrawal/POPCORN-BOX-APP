@@ -1,6 +1,6 @@
 🎬 POPCORN BOX APP— Movie & TV Streaming Platform (Educational Project)
 
-CINEMAA is a responsive movie and TV show streaming web application built as my first major hands-on project during my early days in web development.
+It is a responsive movie and TV show streaming web application built as my first major hands-on project during my early days in web development.
 What started as a beginner experiment became a complete end-to-end product, helping me understand real-world frontend architecture, API integration, UI/UX design, and performance considerations.
 
 This project reflects how I learn by building, iterating, and improving—something I continue to do as I grow as a developer.
@@ -76,6 +76,7 @@ Writing cleaner, reusable code over time
 👨‍💻 About the Developer
 
 I’m a passionate Full-Stack / Frontend Developer who believes in learning by building real projects. CINEMAA represents my journey from beginner to confident developer—and I continue to level up every day.
+
 
 
 
